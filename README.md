@@ -1,5 +1,4 @@
-# HotelSatset
-# Sistem Informasi Pengelolaan Kamar Hotel
+# HotelSatset-Sistem Informasi Pengelolaan Kamar Hotel
 
 Aplikasi ini dirancang untuk membantu pengelolaan kamar hotel, status kamar, dan pemesanan pelanggan secara efisien dengan fitur real-time dan antarmuka user-friendly.
 
