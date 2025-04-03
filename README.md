@@ -1,36 +1,36 @@
-# HotelSatset-Sistem Informasi Pengelolaan Kamar Hotel
+# HotelSatset - Hotel Room Management System
 
-Aplikasi ini dirancang untuk membantu pengelolaan kamar hotel, status kamar, dan pemesanan pelanggan secara efisien dengan fitur real-time dan antarmuka user-friendly.
+This website is designed to efficiently manage hotel rooms, room status, and customer bookings with real-time features and a user-friendly interface. It is developed using Java for the backend and JSP for the frontend.
 
-## Fitur Utama
+## Main Features
 
-### Informasi Kamar
-- Mengelola data kamar (Nomor Kamar, Harga per Malam).
-- Memastikan informasi kamar selalu terupdate.
+### Room Information
+- Manage room data (Room Number, Price per Night).
+- Ensure room information is always up to date.
 
-### Status Kamar
-- Menampilkan ketersediaan kamar secara real-time (Tersedia/Terisi).
-- Mengurangi risiko double booking.
+### Room Status
+- Display real-time room availability (Available/Occupied).
+- Reduce the risk of double booking.
 
-### Booking Pelanggan
-- Mencatat pemesanan (Nama Pelanggan, Tanggal Check-in/Check-out, Total Harga, Status Pemesanan).
-- Memastikan proses pemesanan lebih cepat dan akurat.
+### Customer Booking
+- Record bookings (Customer Name, Check-in/Check-out Date, Total Price, Booking Status).
+- Ensure a faster and more accurate booking process.
 
-### Tabel Booking
-- Menampilkan data pemesanan dalam format tabel yang terorganisir.
-- Mempermudah admin dalam memantau pemesanan.
+### Booking Table
+- Display booking data in an organized table format.
+- Help administrators monitor and manage reservations efficiently.
 
-## Tujuan Pengembangan
-- Digitalisasi pengelolaan kamar dan pemesanan.
-- Meningkatkan efisiensi operasional hotel.
-- Memastikan proses pemesanan yang cepat dan transparan.
-- Meningkatkan kepercayaan pelanggan terhadap layanan hotel.
+## Development Goals
+- Digitize room and booking management.
+- Improve hotel operational efficiency.
+- Ensure a fast and transparent booking process.
+- Increase customer trust in hotel services.
 
-## Keunggulan Aplikasi
-- **Real-time**: Informasi kamar selalu diperbarui otomatis.
-- **Efisien**: Mengurangi kesalahan dalam pengelolaan data.
-- **Fleksibel**: Dapat diakses kapan saja oleh admin hotel.
-- **User-friendly**: Antarmuka yang mudah digunakan.
+## Application Advantages
+- **Real-time**: Room information is automatically updated.
+- **Efficient**: Reduces errors in room and booking management.
+- **Flexible**: Accessible anytime by hotel administrators.
+- **User-friendly**: Simple and easy-to-use interface.
 
 ## Author
 - Nadiella Fitantriani Putri
@@ -38,6 +38,5 @@ Aplikasi ini dirancang untuk membantu pengelolaan kamar hotel, status kamar, dan
 - Rheno Febrian Cholistyo  
 - Imelia Dhevita Sari
 - Rafelisha Ananfadya
-- Raihan Diaurrahman  
-  
+- Raihan Diaurrahman
 
